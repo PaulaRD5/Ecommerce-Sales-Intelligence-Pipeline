@@ -27,7 +27,7 @@ hasta la visualización ejecutiva en Power BI.
   Se transformó una tabla plana denormalizada en un modelo eficiente para analítica:
   - Creación de tablas de Dimensiones (dim_clientes, dim_productos) y tabla de Hechos (fact_ventas).
   - Implementación de una Vista Maestra para optimizar la carga en el Dashboard.
-  - Archivo: 8*Data_Modeling_Star_Schema.sql**
+  - Archivo: **Data_Modeling_Star_Schema.sql**
 
 3. Análisis Avanzado (Business Insights)
   Desarrollo de consultas complejas para extraer valor de negocio:
