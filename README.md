@@ -21,7 +21,7 @@ hasta la visualización ejecutiva en Power BI.
   - Tratamiento de valores nulos en CustomerID.
   - Limpieza de registros con cantidades negativas (devoluciones).
   - Normalización de tipos de datos y exportación automatizada a MySQL.
- `- Archivo: **ETL_Data_Cleaning_Ecommerce.ipynb**
+ - Archivo: **ETL_Data_Cleaning_Ecommerce.ipynb**
 
 2. Modelado de Datos (SQL)
   Se transformó una tabla plana denormalizada en un modelo eficiente para analítica:
